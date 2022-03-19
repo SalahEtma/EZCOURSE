@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385563138431",
+    "project_id": "ez-course",
+    "storage_bucket": "ez-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385563138431:android:16d75fda649975dbf7624a",
+        "android_client_info": {
+          "package_name": "com.seveen.course_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385563138431-fntbpcq6f57u5oul8upncjugdr99ggh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFN4HtujweJCu6FMqVwaxpd1WfhdNqLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385563138431-fntbpcq6f57u5oul8upncjugdr99ggh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
